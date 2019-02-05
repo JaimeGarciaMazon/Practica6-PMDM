@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="persona">persona</string>
+    <string name="blocdenota">Bloc de Nota</string>
+    <string name="title_activity_pantalla_persona">PantallaPersona</string>
+    <string name="Editar">Editar</string>
+</resources>
