@@ -136,8 +136,4 @@ public class pantallaPersona extends AppCompatActivity {
         return true;
     }
 
-
-
-
-
 }

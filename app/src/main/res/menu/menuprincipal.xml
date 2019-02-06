@@ -1,16 +1,16 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="47dp">
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="47dp">
 
-    <item
-        android:id="@+id/opcion1"
-        android:icon="@android:drawable/stat_sys_phone_call_forward"
-        android:title="@string/persona" />
+<item
+    android:id="@+id/opcion1"
+    android:icon="@android:drawable/stat_sys_phone_call_forward"
+    android:title="@string/persona" />
 
-    <item
-        android:id="@+id/opcion2"
-        android:icon="@android:drawable/ic_menu_share"
-        android:title="@string/blocdenota" />
+<item
+    android:id="@+id/opcion2"
+    android:icon="@android:drawable/ic_menu_share"
+    android:title="@string/blocdenota" />
 
 </menu>
