@@ -4,4 +4,6 @@
     <string name="blocdenota">Bloc de Nota</string>
     <string name="title_activity_pantalla_persona">PantallaPersona</string>
     <string name="Editar">Editar</string>
+    <string name="toast_guardado">Guardado</string>
+    <string name="Guardar">Guardar</string>
 </resources>
