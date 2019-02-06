@@ -117,7 +117,7 @@ public class pantallaPersona extends AppCompatActivity {
         {
 
             case R.id.opcion3:
-                Intent opcion3 = new Intent(Intent.ACTION_DIAL);
+                Intent opcion3 = new Intent(this,editarContacto.class);
                 startActivity(opcion3);
                 break;
 
@@ -135,6 +135,8 @@ public class pantallaPersona extends AppCompatActivity {
         }
         return true;
     }
+
+
 
 
 
