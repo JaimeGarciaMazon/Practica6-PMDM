@@ -6,4 +6,6 @@
     <string name="Editar">Editar</string>
     <string name="toast_guardado">Guardado</string>
     <string name="Guardar">Guardar</string>
+    <string name="Llamar">Llamar</string>
+    <string name="EnviarCorreo">Enviar Correo</string>
 </resources>
