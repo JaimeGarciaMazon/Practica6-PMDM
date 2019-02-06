@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica 6</string>
+    <string name="Introduceuncorreo">Entrez un email</string>
+    <string name="Introduceunnumero">Entrez un nombre</string>
+    <string name="EnviarCorreo">"Envoyer du courrier "</string>
+    <string name="Llamar">Appel</string>
+    <string name="Guardar">" sauvegarder"</string>
+    <string name="toast_guardado">Sauvé</string>
+    <string name="Editar">Éditer</string>
+    <string name="title_activity_pantalla_persona">" Écran Personne"</string>
+    <string name="blocdenota">Bloc-notes</string>
+    <string name="persona">personne</string>
+</resources>

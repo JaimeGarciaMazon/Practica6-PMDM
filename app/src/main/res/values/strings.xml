@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Practica 6</string>
+    <string name="app_name" translatable="false">Practica 6</string>
     <string name="persona">persona</string>
     <string name="blocdenota">Bloc de Nota</string>
     <string name="title_activity_pantalla_persona">PantallaPersona</string>
