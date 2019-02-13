@@ -15,6 +15,7 @@ import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import static android.Manifest.permission.CALL_PHONE;
 
@@ -127,10 +128,27 @@ public class pantallaPersona extends AppCompatActivity {
     }
 
     public boolean onContextItemSelected(MenuItem item) {
+       String numero = "";
+       String correo = "";
+
         switch (item.getItemId()) {
             case R.id.opcion4:
+                if (numero == "")
+                {
+                    Toast.makeText(this,"no ahi ningun numero asignado",Toast.LENGTH_SHORT).show();
+                }
+                else {
+
+                }
                 break;
             case R.id.opcion5:
+                if (correo == "")
+                {
+                    Toast.makeText(this,"no ahi ningun correo asignado",Toast.LENGTH_SHORT).show();
+                }
+                else {
+
+                }
                 break;
         }
         return true;

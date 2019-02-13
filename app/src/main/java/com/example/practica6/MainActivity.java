@@ -74,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
         {
 
             case R.id.opcion1:
-
                 startActivity(opcion1);
                 break;
 
